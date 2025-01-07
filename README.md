@@ -1,5 +1,4 @@
 # Segmentation-clients
-Segmentation des clients d’un site e-commerce
 J'ai développé un modèle de segmentation de clients pour un site e-commerce, afin de mieux comprendre les comportements d'achat et de proposer des offres personnalisées. Le projet a impliqué :
 
     - Analyse des données : Exploration des comportements clients à partir de données d'achats, de satisfaction et de localisation.
